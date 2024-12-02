@@ -25,3 +25,17 @@ This is a Flutter project that replicates a UI design inspired by Dribbble. The 
    ```
 2. Open main.dart and start debug
 3. Bismillah
+
+---
+
+## Resources
+
+This project is inspired by the YouTube tutorial by **FlutterWay**.  
+Watch the full video here:  
+[https://www.youtube.com/watch?v=eegl7of4g-o&t=1470s](https://www.youtube.com/watch?v=eegl7of4g-o&t=1470s)
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
