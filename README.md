@@ -23,3 +23,5 @@ This is a Flutter project that replicates a UI design inspired by Dribbble. The 
    ```bash
    git clone https://github.com/YusufFauziyan/flutter-dribble-clone.git
    ```
+2. Open main.dart and start debug
+3. Bismillah
